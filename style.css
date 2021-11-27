@@ -104,6 +104,7 @@ section a {
 }
 
 /* Footer & Social */
+
 .footer-container {
   width: 100%;
   max-width: 1440px;
@@ -123,6 +124,7 @@ section a {
 }
 
 .social a {
+  margin-top: 20px;
   text-decoration: none;
   margin-right: 20px;
 }
